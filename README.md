@@ -61,17 +61,9 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=xaarii&hide_border=true" />
     </picture>
 </a>
-<<<<<<< HEAD
 </div>
 
 
-=======
-    <img src="" />
-
-</div>
-
-
->>>>>>> ba16b3774f520600c276c1fe552773a6e6a14eef
 -------------------------------------
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/xaarii/xaarii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/xaarii/xaarii/output/github-contribution-grid-snake.svg#gh-light-mode-only)
