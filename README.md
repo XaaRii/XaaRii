@@ -39,7 +39,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaarii&layout=compact&count_private=true&langs_count=8&card_width=445&hide_border=true" />
     </picture>
 </a>
-<a href="https://github.com/xaarii/">
+<a href="https://wakatime.com/@66bd1434-19d9-4408-aff0-3fa676f3a321">
     <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api/wakatime?username=66bd1434-19d9-4408-aff0-3fa676f3a321&theme=dark&bg_color=0d1117&hide_border=true"
